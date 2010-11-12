@@ -1,0 +1,1 @@
+Implements a force-based graph drawing algorithm, see http://en.wikipedia.org/wiki/Force-based_algorithms_(graph_drawing)
